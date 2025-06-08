@@ -10,7 +10,7 @@ It maintains login state via cookies stored locally in `auth.json`, with auto re
 
 Watch this short walkthrough to see how it works:
 
-👉 [Loom Video Walkthrough](https://www.loom.com/share/your-video-id-here)
+👉 [Loom Video Walkthrough](https://www.loom.com/share/f930837bbd1c44478bb38f570b93636b)
 
 ---
 
